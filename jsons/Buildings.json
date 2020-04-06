@@ -2,6 +2,7 @@
 	{
 		"name": "Nursery",
 		"uniqueTo": "Madrea",
+		"replaces": "Monument",
 		"xpForNewUnits": 10,
 		"culture": 1,
 		"specialistSlots": {"culture": 1},
