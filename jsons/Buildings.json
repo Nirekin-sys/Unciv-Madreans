@@ -1,0 +1,11 @@
+{
+		"name": "Holy Nursery",
+    "replaces": "Monument",
+    "uniqueTo": "Madrea",
+		"xpForNewUnits": 10,
+    "culture": 1,
+		"specialistSlots": {"culture": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry"
+}
