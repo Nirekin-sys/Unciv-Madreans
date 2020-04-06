@@ -1,0 +1,16 @@
+[
+	{
+                "name": "Holy Nymph",
+		"unitType": "Melee",
+                "uniqueTo": "Madrea",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 11,
+		"cost": 75,
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+                "uniques": ["Heal adjacent units for an additional 15 HP per turn"],
+		"attackSound": "nonmetalhit"
+	}
+]
