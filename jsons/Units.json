@@ -7,11 +7,11 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 75,
-		"requiredTech": "Iron Working",		
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Gunpowder",
-                "uniques": ["Heal adjacent units for an additional 15 HP per turn"],
 		"hurryCostModifier": 20,
+		"requiredTech": "Iron Working",	
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",		
+                "uniques": ["Heal adjacent units for an additional 15 HP per turn"],
 		"attackSound": "nonmetalhit"
 	}
 ]
