@@ -5,12 +5,13 @@
                 "uniqueTo": "Madrea",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 11,
+		"strength": 12,
 		"cost": 75,
-		"hurryCostModifier": 20,
-		"obsoleteTech": "Gunpowder",
+		"requiredTech": "Iron Working",		
 		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
                 "uniques": ["Heal adjacent units for an additional 15 HP per turn"],
+		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	}
 ]
