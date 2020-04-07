@@ -10,8 +10,9 @@
 		"hurryCostModifier": 20,
 		"requiredTech": "Iron Working",	
 		"obsoleteTech": "Gunpowder",
-		"upgradesTo": "Musketman",		
-                "uniques": ["Heal adjacent units for an additional 15 HP per turn"],
+		"upgradesTo": "Musketman",
+		"promotions": ["Medic II"],
+                "uniques": ["+33% combat bonus in Forest/Jungle"],
 		"attackSound": "nonmetalhit"
 	}
 ]
