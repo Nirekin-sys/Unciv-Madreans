@@ -27,7 +27,7 @@
 		"afterPeace": "I hope that you have calmed yourself from this ruckus.",
 		"tradeRequest": "Be reasonable, young one, I offer this deal only once.",
 				
-		"outerColor": [0,255,102],
+		"outerColor": [104,187,129],
 		"innerColor": [255,255,0],
 		"uniqueName": "Blessed Virgins",
 		"unique": "HELLENIC_LEAGUE",
