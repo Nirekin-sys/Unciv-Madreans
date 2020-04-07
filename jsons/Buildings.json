@@ -3,7 +3,7 @@
 		"name": "Nursery",
 		"replaces": "Monument",
 		"uniqueTo": "Madrea",
-		"xpForNewUnits": 10,
+		"xpForNewUnits": 15,
 		"culture": 1,
 		"specialistSlots": {"culture": 1},
 		"cost": 30,
